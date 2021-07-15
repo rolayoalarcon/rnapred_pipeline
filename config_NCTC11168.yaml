@@ -1,0 +1,12 @@
+# Input files
+features_file: 'data/cjejuni_NCTC_11168/merged_features.tsv'
+fasta_file: "data/cjejuni_NCTC_11168/GCF_000009085.1_ASM908v1_genomic.fna"
+
+# Some info about the input file
+feature_column: 'type'
+
+# Info about the genome 
+chromosome_name: "NC_002163.1"
+
+# Base output directory
+base_outdir: "data/cjejuni_NCTC_11168/"

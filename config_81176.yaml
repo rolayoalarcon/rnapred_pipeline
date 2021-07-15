@@ -1,0 +1,12 @@
+# Input files
+features_file: 'data/cjejuni_CJ81176/merged_features.tsv'
+fasta_file: "data/cjejuni_CJ81176/GCA_000015525.1_ASM1552v1_genomic.fna"
+
+# Some info about the input file
+feature_column: '# feature'
+
+# Info about the genome 
+chromosome_name: "CP000538.1"
+
+# Base output directory
+base_outdir: "data/cjejuni_CJ81176/"
